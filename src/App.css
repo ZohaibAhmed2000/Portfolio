@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.image{
+  background-image: url('./assets/mefinal.png');
+  background-size: cover;
+  background-position: 530px;
+}
+.image-about{
+  background-image: url('./assets/mefinal.png');
+  background-size: cover;
+  background-position: center center;
+
+}
+.name{
+  margin-top: 30%;
+  font-weight: 700;
+  font-size: 4rem;
+  letter-spacing: 2px;
+}
+.desc{
+  /* margin-top: 30%; */
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+}
+.wraper{
+  background-color: #F37737;
+  /* height: 250px; */
+}
